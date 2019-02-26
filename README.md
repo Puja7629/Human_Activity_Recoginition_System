@@ -1,0 +1,2 @@
+# Human_activity_recoginition_system
+Used smart phone dataset. Application of classification algorithms, Compare multiple algorithms, Deployment of Keras Deep learning algorithm, Deployment of SVM &amp; Adaboost, Comparison of models. The objective is to classify activities into one of the six activities performed. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
